@@ -6,7 +6,7 @@ CLIx is run independently on earthquake- and seismic-induced landslide hazard da
 
 The code accompanies the paper:
 
-> Goyal, S., Mukherjee, M., & Roy, S. (under review). [Multi-Hazard Composite Loss Index for Sub-District Prioritisation and Targeted Interventions: Application to Seismic and Hydro-Meterological Hazards in the Indian Himalaya.]. *Ecological Indicators*.
+> Goyal, S., Mukherjee, M., & Roy, S. (under review). Multi-Hazard Composite Loss Index for Sub-District Prioritisation and Targeted Interventions: Application to Seismic and Hydro-Meterological Hazards in the Indian Himalaya. *Ecological Indicators*.
 
 The test case covers 95 development blocks in Uttarakhand, India, with two implementations: CLIx-EQ (earthquake and seismic-induced landslides) and CLIx-FL (fluvial flood, flash flood and precipitation-induced landslides).
 
