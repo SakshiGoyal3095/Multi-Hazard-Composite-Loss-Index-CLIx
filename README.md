@@ -86,7 +86,9 @@ The input data for the Uttarakhand test case were derived from the Uttarakhand D
 
 ## Citation
 
-If you use this code, please cite the paper above and this repository (Zenodo DOI to be added).
+If you use this code, please cite the paper above and the archived code:
+
+> Goyal, S., Mukherjee, M., & Roy, S. (2026). CLIx: Multi-Hazard Composite Loss Index (v1.0). Zenodo. https://doi.org/10.5281/zenodo.23480029
 
 ## Licence
 
